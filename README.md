@@ -1,4 +1,7 @@
 ### Hi there 👋
+- I'm a Java/C programmer, working at home.
+- I'm working on @PojavLauncherTeam, bring Minecraft: Java Edition to Android 🚀
+- Have a question? My Discord: @DuyKhanhTran#5558
 
 <!--
 **khanhduytran0/khanhduytran0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
