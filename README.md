@@ -3,6 +3,8 @@
 - I'm working on @PojavLauncherTeam, bring Minecraft: Java Edition to Android 🚀
 - Have a question? My Discord: @DuyKhanhTran#5558
 
+[![my stateses](https://github-readme-stats.vercel.app/api?username=khanhduytran0)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **khanhduytran0/khanhduytran0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
