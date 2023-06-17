@@ -1,7 +1,7 @@
 ### Hi there 👋
-- I'm a Java/C programmer, working at home.
+- I'm a Java/C/ObjC programmer, working at home.
 - I'm working on @PojavLauncherTeam, bring Minecraft: Java Edition to Android and iOS 🚀
-- Have a question? My Discord: @DuyKhanhTran#5558
+- Discord: @duykhanhtran
 
 [![my stateses](https://github-readme-stats.vercel.app/api?username=khanhduytran0)](https://github.com/anuraghazra/github-readme-stats)
 
