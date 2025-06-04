@@ -1,7 +1,6 @@
 ### Hi there 👋
-- I'm a Java/C/ObjC programmer, working at home.
-- I'm working on @PojavLauncherTeam, bring Minecraft: Java Edition to Android and iOS 🚀
-- Discord: @duykhanhtran
+- I'm a software developer, and internal API explorer
+- Working on @AngleAuraMC and @LiveContainer
 
 [![my stateses](https://github-readme-stats.vercel.app/api?username=khanhduytran0)](https://github.com/anuraghazra/github-readme-stats)
 
